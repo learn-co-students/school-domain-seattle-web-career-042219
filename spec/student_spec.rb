@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+
 describe 'School' do
   before :each do
     @school = School.new("Test School")
